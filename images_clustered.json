@@ -1,0 +1,1388 @@
+[
+  {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/2562992/pexels-photo-2562992.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Brown leather shoes, a vintage camera, knife and wallet on a patterned background.",
+    "tags": [
+      "brown",
+      "leather",
+      "camera",
+      "background",
+      "shoe",
+      "wallet",
+      "knife"
+    ],
+    "tag_clusters": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/6153367/pexels-photo-6153367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Focus on stylish footwear and advanced prosthetics in a contemporary setting.",
+    "tags": [
+      "setting",
+      "focus",
+      "prosthetic",
+      "footwear"
+    ],
+    "tag_clusters": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/6594253/pexels-photo-6594253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Fashionable black leather boots paired with trendy striped socks for a chic look.",
+    "tags": [
+      "sock",
+      "look",
+      "leather",
+      "boot"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "url": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Colorful quinoa salad with fresh vegetables creates a healthy, balanced meal.",
+    "tags": [
+      "meal",
+      "vegetable",
+      "salad",
+      "quinoa"
+    ],
+    "tag_clusters": [
+      2
+    ]
+  },
+  {
+    "id": 5,
+    "url": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Mouthwatering pancakes with strawberries, nuts, and syrup on a plate.",
+    "tags": [
+      "mouthwatering",
+      "strawberry",
+      "nut",
+      "plate"
+    ],
+    "tag_clusters": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": 6,
+    "url": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of a juicy burger and crispy fries served with sauces, perfect for a hearty meal.",
+    "tags": [
+      "meal",
+      "sauce",
+      "burger",
+      "crispy fries",
+      "crispy",
+      "fry"
+    ],
+    "tag_clusters": [
+      2
+    ]
+  },
+  {
+    "id": 7,
+    "url": "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Luxury cars lined up at an outdoor dealership, showcasing sleek designs.",
+    "tags": [
+      "design",
+      "luxury",
+      "dealership",
+      "car"
+    ],
+    "tag_clusters": [
+      0,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "url": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Front view of a lineup of Mercedes-Benz cars with bright headlights, showcasing luxury and elegance.",
+    "tags": [
+      "headlight",
+      "view",
+      "car",
+      "luxury",
+      "mercedes-benz",
+      "benz",
+      "mercedes",
+      "elegance",
+      "lineup"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "url": "https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Red Ferrari sports car showcased at Dubai Mall, UAE, symbolizing luxury and elegance.",
+    "tags": [
+      "red",
+      "dubai",
+      "ferrari",
+      "uae",
+      "car",
+      "sport",
+      "luxury",
+      "dubai mall",
+      "elegance",
+      "mall"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 10,
+    "url": "https://images.pexels.com/photos/2325447/pexels-photo-2325447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Hot air balloons float over the mesmerizing landscape of Cappadocia, Turkey at sunrise.",
+    "tags": [
+      "sunrise",
+      "landscape",
+      "balloon",
+      "air",
+      "turkey",
+      "cappadocia"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 11,
+    "url": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A hand painted green holds a fresh plant sprout against a light background, symbolizing growth and sustainability.",
+    "tags": [
+      "green",
+      "hand",
+      "plant",
+      "sustainability",
+      "sprout",
+      "growth",
+      "background"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 12,
+    "url": "https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A hummingbird hovers gracefully near a blooming red hibiscus, showcasing nature's delicate beauty.",
+    "tags": [
+      "nature",
+      "hibiscus",
+      "hover",
+      "beauty"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 13,
+    "url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Adorable golden retriever puppies sitting in a field of flowers, enjoying a sunny day.",
+    "tags": [
+      "a sunny day",
+      "flower",
+      "puppy",
+      "field",
+      "day",
+      "retriever"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 14,
+    "url": "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Adorable close-up of a brown dog's face with a curious expression and focus on its eyes and nose.",
+    "tags": [
+      "close",
+      "dog",
+      "eye",
+      "face",
+      "expression",
+      "nose"
+    ],
+    "tag_clusters": [
+      1,
+      3,
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "url": "https://images.pexels.com/photos/850602/pexels-photo-850602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Three Boxer dogs posing in a studio setting, showcasing elegance and charm.",
+    "tags": [
+      "three",
+      "charm",
+      "setting",
+      "dog",
+      "boxer",
+      "elegance",
+      "studio"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 16,
+    "url": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Smiling woman in sunglasses stands against vibrant yellow wall, radiating happiness.",
+    "tags": [
+      "happiness",
+      "woman",
+      "sunglass",
+      "wall"
+    ],
+    "tag_clusters": [
+      1,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "url": "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Chic woman with afro hair in a floral sweater and plaid skirt posing confidently.",
+    "tags": [
+      "woman",
+      "sweater",
+      "chic",
+      "hair",
+      "skirt",
+      "plaid",
+      "afro"
+    ],
+    "tag_clusters": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 18,
+    "url": "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Trendy woman posing in oversized shirt and sunglasses, exuding modern fashion style.",
+    "tags": [
+      "woman",
+      "shirt",
+      "style",
+      "sunglass",
+      "fashion"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "url": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning beach in Laamu Atoll, Maldives, with turquoise waters and clear skies.",
+    "tags": [
+      "turquoise",
+      "sky",
+      "laamu",
+      "water",
+      "laamu atoll",
+      "atoll",
+      "beach",
+      "maldives"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 20,
+    "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Experience the serene beauty of a tropical beach in RAAS, Nicaragua, with palm trees and ocean waves.",
+    "tags": [
+      "ocean",
+      "nicaragua",
+      "palm",
+      "tree",
+      "beach",
+      "wave",
+      "beauty",
+      "raas"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "url": "https://images.pexels.com/photos/240526/pexels-photo-240526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning tropical beach with palm trees on Fuvahmulah Island, Maldives, showcasing white sands and blue ocean.",
+    "tags": [
+      "fuvahmulah island",
+      "ocean",
+      "palm",
+      "tree",
+      "beach",
+      "island",
+      "maldives",
+      "sand",
+      "fuvahmulah"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 22,
+    "url": "https://images.pexels.com/photos/922100/pexels-photo-922100.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A man enjoys reading a book on a serene Maldives beach, capturing the essence of relaxation.",
+    "tags": [
+      "book",
+      "beach",
+      "maldives",
+      "essence",
+      "man",
+      "relaxation"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 23,
+    "url": "https://images.pexels.com/photos/4132936/pexels-photo-4132936.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Silhouette of a man sitting on a bed in a dark room, reading a book by window light.",
+    "tags": [
+      "book",
+      "window",
+      "room",
+      "light",
+      "silhouette",
+      "bed",
+      "man"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "url": "https://images.pexels.com/photos/5084674/pexels-photo-5084674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A young woman with natural hair enjoys reading a book by the window with warm sunlight.",
+    "tags": [
+      "woman",
+      "book",
+      "window",
+      "hair",
+      "sunlight"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "url": "https://images.pexels.com/photos/380782/pexels-photo-380782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A sophisticated display of luxury watches in an elegant case with a hand selecting one.",
+    "tags": [
+      "hand",
+      "display",
+      "case",
+      "luxury",
+      "watch"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "url": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Luxury wristwatch with stainless steel bracelet displayed elegantly on a wooden background.",
+    "tags": [
+      "wristwatch",
+      "bracelet",
+      "luxury",
+      "background",
+      "steel"
+    ],
+    "tag_clusters": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 27,
+    "url": "https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Elegant black and white close-up of a luxury wristwatch with a reflective stainless steel body and leather strap.",
+    "tags": [
+      "wristwatch",
+      "close",
+      "leather",
+      "luxury",
+      "body",
+      "strap",
+      "steel"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 28,
+    "url": "https://images.pexels.com/photos/2245436/pexels-photo-2245436.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A lone traveler walking over the vast, golden sand dunes of the Sahara Desert in Algeria.",
+    "tags": [
+      "dune",
+      "algeria",
+      "the sahara desert",
+      "sahara",
+      "desert",
+      "traveler",
+      "sand"
+    ],
+    "tag_clusters": [
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 29,
+    "url": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Hand holding a globe against a mountain background symbolizing travel and exploration.",
+    "tags": [
+      "hand",
+      "mountain",
+      "travel",
+      "globe",
+      "background",
+      "exploration"
+    ],
+    "tag_clusters": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 30,
+    "url": "https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A woman walks with a suitcase outside an airport terminal, ready for travel.",
+    "tags": [
+      "woman",
+      "airport",
+      "travel",
+      "suitcase",
+      "terminal"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 31,
+    "url": "https://images.pexels.com/photos/2827392/pexels-photo-2827392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A muscular man running on sandy terrain under cloudy skies, promoting fitness and adventure.",
+    "tags": [
+      "fitness",
+      "terrain",
+      "adventure",
+      "sky",
+      "man"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 32,
+    "url": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Man performing a deadlift exercise in a gym, demonstrating strength and fitness.",
+    "tags": [
+      "deadlift",
+      "fitness",
+      "man",
+      "gym",
+      "strength",
+      "exercise"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 33,
+    "url": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Woman in athletic wear doing an abdominal workout on a mat indoors.",
+    "tags": [
+      "woman",
+      "workout",
+      "wear",
+      "mat",
+      "indoor"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 34,
+    "url": "https://images.pexels.com/photos/6662322/pexels-photo-6662322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Artistic side profile portrait of a woman with face paint and bold jewelry on a black background.",
+    "tags": [
+      "woman",
+      "paint",
+      "jewelry",
+      "face",
+      "portrait",
+      "background",
+      "profile"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 35,
+    "url": "https://images.pexels.com/photos/5475580/pexels-photo-5475580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of a silver pendant necklace worn by a woman, showcasing fine jewelry and fashion.",
+    "tags": [
+      "jewelry",
+      "woman",
+      "necklace",
+      "fashion"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "id": 36,
+    "url": "https://images.pexels.com/photos/6563393/pexels-photo-6563393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up image of a bride's hands adorned with a wedding ring and jewelry, showcasing elegance.",
+    "tags": [
+      "hand",
+      "image",
+      "bride",
+      "jewelry",
+      "elegance",
+      "wedding",
+      "ring"
+    ],
+    "tag_clusters": [
+      2,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 37,
+    "url": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A watercolor painting of a giraffe surrounded by leaves and painting tools.",
+    "tags": [
+      "leave",
+      "giraffe",
+      "painting",
+      "tool",
+      "watercolor"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 38,
+    "url": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Captivating spiral stained glass art with vibrant colors forming a dramatic eye-catching pattern.",
+    "tags": [
+      "glass",
+      "eye",
+      "art",
+      "color",
+      "pattern",
+      "spiral"
+    ],
+    "tag_clusters": [
+      1,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 39,
+    "url": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Vibrant artist palette with paint and brush creating colorful artwork.",
+    "tags": [
+      "palette",
+      "paint",
+      "artwork",
+      "artist",
+      "brush"
+    ],
+    "tag_clusters": [
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 40,
+    "url": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "An array of various liquor bottles beautifully displayed on a bar shelf.",
+    "tags": [
+      "bottle",
+      "liquor",
+      "bar",
+      "array",
+      "shelf"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 41,
+    "url": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Refreshing orange cocktail with ice, garnished with rosemary and orange slice. Perfect for summer parties.",
+    "tags": [
+      "summer",
+      "party",
+      "cocktail",
+      "ice",
+      "orange",
+      "slice"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 42,
+    "url": "https://images.pexels.com/photos/1089930/pexels-photo-1089930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of two friends toasting with cold beer glasses at a lively bar, celebrating friendship and good times.",
+    "tags": [
+      "glass",
+      "friend",
+      "friendship",
+      "bar",
+      "beer",
+      "time",
+      "two"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 43,
+    "url": "https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A scenic view of misty mountains and dense forest, perfect for nature lovers.",
+    "tags": [
+      "mountain",
+      "view",
+      "lover",
+      "forest",
+      "misty",
+      "nature"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 44,
+    "url": "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning sunrise casting rays over the Italian Alps in Alleghe, Veneto, with lush greenery and rocky terrain.",
+    "tags": [
+      "greenery",
+      "sunrise",
+      "alleghe",
+      "alps",
+      "terrain",
+      "italian",
+      "veneto",
+      "ray"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 45,
+    "url": "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Breathtaking sunset view of snow-capped mountains in Nepal, perfect for scenic backgrounds.",
+    "tags": [
+      "nepal",
+      "mountain",
+      "sunset",
+      "view",
+      "snow",
+      "background"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 46,
+    "url": "https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A breathtaking view of the starry night sky showcasing the Milky Way galaxy. Perfect for celestial themes.",
+    "tags": [
+      "theme",
+      "way",
+      "milky way",
+      "view",
+      "night",
+      "galaxy",
+      "sky",
+      "milky"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 47,
+    "url": "https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Capture of the starry night sky over Ksar Tanamouste, Morocco, showcasing a vibrant universe.",
+    "tags": [
+      "ksar tanamouste",
+      "morocco",
+      "night",
+      "capture",
+      "ksar",
+      "tanamouste",
+      "universe",
+      "sky"
+    ],
+    "tag_clusters": [
+      1,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 48,
+    "url": "https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Historic image of an astronaut on the moon during the Apollo mission, showcasing space exploration.",
+    "tags": [
+      "moon",
+      "image",
+      "mission",
+      "space",
+      "exploration",
+      "apollo",
+      "astronaut"
+    ],
+    "tag_clusters": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 49,
+    "url": "https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of lush green leaves with dewdrops, capturing a refreshing and natural texture.",
+    "tags": [
+      "dewdrop",
+      "texture",
+      "leave"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 50,
+    "url": "https://images.pexels.com/photos/1470171/pexels-photo-1470171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A top-down view showcasing a variety of succulent plants arranged on a white background.",
+    "tags": [
+      "background",
+      "plant",
+      "view",
+      "variety"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 51,
+    "url": "https://images.pexels.com/photos/776656/pexels-photo-776656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Three succulents in white pots on a white background, showcasing minimalist decor.",
+    "tags": [
+      "three",
+      "pot",
+      "decor",
+      "succulent",
+      "background",
+      "minimalist"
+    ],
+    "tag_clusters": [
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 52,
+    "url": "https://images.pexels.com/photos/36039/baby-twins-brother-and-sister-one-hundred-days.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Twin babies wearing cute bunny outfits with plush toys indoors.",
+    "tags": [
+      "baby",
+      "bunny",
+      "toy",
+      "outfit",
+      "indoor"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 53,
+    "url": "https://images.pexels.com/photos/265987/pexels-photo-265987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Charming baby with colorful scarf surrounded by cute plush toys, highlighting innocence indoors.",
+    "tags": [
+      "scarf",
+      "baby",
+      "innocence",
+      "toy",
+      "indoor"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 54,
+    "url": "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A peaceful sleeping infant wrapped in a soft, warm blanket on a cozy white surface.",
+    "tags": [
+      "infant",
+      "blanket",
+      "sleeping",
+      "surface"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 55,
+    "url": "https://images.pexels.com/photos/62689/pexels-photo-62689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Top view of a creative workspace with camera, laptop, and accessories, perfect for a designer or photographer.",
+    "tags": [
+      "photographer",
+      "accessory",
+      "workspace",
+      "laptop",
+      "view",
+      "camera",
+      "designer"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 56,
+    "url": "https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A flat lay photo showcasing a gaming console, laptop, smartphone, and headphones on a wooden tabletop.",
+    "tags": [
+      "gaming",
+      "tabletop",
+      "laptop",
+      "lay",
+      "smartphone",
+      "headphone",
+      "console",
+      "photo"
+    ],
+    "tag_clusters": [
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 57,
+    "url": "https://images.pexels.com/photos/792345/pexels-photo-792345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A black and white flat lay of various modern tech gadgets including a laptop, drone, and gaming device.",
+    "tags": [
+      "drone",
+      "laptop",
+      "lay",
+      "device",
+      "tech",
+      "gadget"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 58,
+    "url": "https://images.pexels.com/photos/262367/pexels-photo-262367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A striking minimalist black and white image featuring architectural reflections on glass surfaces.",
+    "tags": [
+      "image",
+      "reflection",
+      "glass",
+      "surface"
+    ],
+    "tag_clusters": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 59,
+    "url": "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of hand drawing intricate technical designs on blueprint with pen, ideal for engineering or architecture themes.",
+    "tags": [
+      "theme",
+      "hand",
+      "architecture",
+      "design",
+      "engineering",
+      "ideal",
+      "pen",
+      "blueprint"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 60,
+    "url": "https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Black and white abstract architectural photo with modern minimalist curved lines in New York.",
+    "tags": [
+      "line",
+      "new york",
+      "new",
+      "york",
+      "photo"
+    ],
+    "tag_clusters": [
+      0,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 61,
+    "url": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Minimalist home office desk with laptop, smartphone, and plant for a modern work environment.",
+    "tags": [
+      "office",
+      "work",
+      "home",
+      "laptop",
+      "smartphone",
+      "environment",
+      "desk"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 62,
+    "url": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Sleek open laptop placed on a polished wooden floor, showcasing modern technology design.",
+    "tags": [
+      "design",
+      "laptop",
+      "technology",
+      "floor"
+    ],
+    "tag_clusters": [
+      0,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 63,
+    "url": "https://images.pexels.com/photos/221011/pexels-photo-221011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A cozy outdoor workspace scene with a laptop, tablet, and mug on a wooden table.",
+    "tags": [
+      "scene",
+      "workspace",
+      "mug",
+      "laptop",
+      "tablet",
+      "table"
+    ],
+    "tag_clusters": [
+      0,
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 64,
+    "url": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Energetic music concert with a vibrant crowd cheering under bright stage lights.",
+    "tags": [
+      "stage",
+      "crowd",
+      "music",
+      "light",
+      "concert"
+    ],
+    "tag_clusters": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": 65,
+    "url": "https://images.pexels.com/photos/167092/pexels-photo-167092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A classic black vinyl record isolated on a white background.",
+    "tags": [
+      "record",
+      "vinyl",
+      "background"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 66,
+    "url": "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A detailed close-up view of a vintage vinyl record spinning on a turntable, capturing its nostalgic beauty.",
+    "tags": [
+      "view",
+      "spinning",
+      "beauty",
+      "record",
+      "vinyl"
+    ],
+    "tag_clusters": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": 67,
+    "url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up portrait of an adorable cream-colored kitten with blue eyes resting indoors.",
+    "tags": [
+      "cream",
+      "eye",
+      "portrait",
+      "indoor",
+      "kitten"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 68,
+    "url": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A group of five cute kittens exploring and playing on lush green grass outdoors.",
+    "tags": [
+      "five",
+      "grass",
+      "group",
+      "kittens",
+      "kitten"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 69,
+    "url": "https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "A close-up shot of a cute kitten sleeping peacefully on a soft surface.",
+    "tags": [
+      "surface",
+      "shot",
+      "kitten"
+    ],
+    "tag_clusters": [
+      1,
+      3,
+      7
+    ]
+  },
+  {
+    "id": 70,
+    "url": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Colorful flat lay of gaming gear including headset, controller, and keyboard under vibrant lighting.",
+    "tags": [
+      "gaming",
+      "lighting",
+      "gear",
+      "lay",
+      "headset",
+      "keyboard",
+      "controller"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 71,
+    "url": "https://images.pexels.com/photos/275033/pexels-photo-275033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "White game controller resting on a rustic wooden surface, top view.",
+    "tags": [
+      "game",
+      "view",
+      "surface",
+      "controller"
+    ],
+    "tag_clusters": [
+      1,
+      4,
+      7
+    ]
+  },
+  {
+    "id": 72,
+    "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Close-up of hands holding gaming controllers in front of a TV. Engaged in a video gaming session.",
+    "tags": [
+      "hand",
+      "gaming",
+      "tv",
+      "session",
+      "video",
+      "controller"
+    ],
+    "tag_clusters": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 73,
+    "url": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Four colleagues smiling and shaking hands in a bright office setting.",
+    "tags": [
+      "hand",
+      "office",
+      "colleague",
+      "four",
+      "setting"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 74,
+    "url": "https://images.pexels.com/photos/2116721/pexels-photo-2116721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Stunning aerial view of Jakarta's modern skyline with bustling streets below.",
+    "tags": [
+      "jakarta",
+      "street",
+      "view",
+      "skyline"
+    ],
+    "tag_clusters": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 75,
+    "url": "https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "alt": "Hand analyzing business graphs on a wooden desk, focusing on data results and growth analysis.",
+    "tags": [
+      "hand",
+      "business",
+      "result",
+      "data",
+      "analysis",
+      "desk",
+      "growth",
+      "graph"
+    ],
+    "tag_clusters": [
+      0,
+      2,
+      4,
+      5,
+      7
+    ]
+  }
+]
