@@ -3,6 +3,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./Dashboard.css";
+import ClipRecommender from "./ClipRecommender";
+
 
 import {
   PieChart, Pie, Cell,
@@ -11,13 +13,51 @@ import {
 
 const COLORS = ["#8884d8", "#82ca9d", "#ffc658", "#ff7f50", "#00bcd4", "#ff69b4"];
 
+// --- Scoring Function ---
+const computeScore = (log) => {
+  let score = 0;
+
+  const typeWeights = {
+    hover: 1,
+    modal: 2,
+    like: 3,
+  };
+
+  if (Array.isArray(log.type)) {
+    log.type.forEach(t => {
+      score += typeWeights[t] || 0;
+    });
+  }
+
+  if (log.liked === true) score += 3;
+
+  const durationSeconds = Math.min(log.duration / 1000, 5);
+  score += durationSeconds;
+
+  const logTime = new Date(log.timestamp).getTime();
+  const now = new Date().getTime();
+  const FIVE_MIN_MS = 5 * 60 * 1000;
+  if (now - logTime <= FIVE_MIN_MS) {
+    score += 2;
+  }
+
+  return Math.round(score * 100) / 100;
+};
+
 const Dashboard = () => {
   const [logs, setLogs] = useState([]);
   const [sessionId, setSessionId] = useState("");
 
   useEffect(() => {
     axios.get("http://localhost:5051/all-logs")
-      .then(res => setLogs(res.data))
+      .then(res => {
+        const scored = res.data.map(log => ({
+          ...log,
+          score: computeScore(log),
+        }));
+        const sorted = scored.sort((a, b) => b.score - a.score);
+        setLogs(sorted);
+      })
       .catch(err => console.error("Error fetching logs:", err));
 
     const id = "Session-" + Math.floor(100000 + Math.random() * 900000);
@@ -52,6 +92,7 @@ const Dashboard = () => {
             <Bar dataKey="value" fill="#8884d8" />
           </BarChart>
         </div>
+<ClipRecommender logs={logs} />
 
         <div className="chart-card">
           <h3>Tags Distribution</h3>
@@ -66,7 +107,7 @@ const Dashboard = () => {
         </div>
       </div>
 
-      <h2 className="section-title">🖼️ Image Logs</h2>
+      <h2 className="section-title">🖼️ Image Logs (Sorted by Score)</h2>
       <div className="log-grid">
         {logs.map((log, index) => (
           <div className="log-card" key={index}>
@@ -78,11 +119,13 @@ const Dashboard = () => {
               <p><strong>Duration:</strong> {log.duration} ms</p>
               <p><strong>Liked:</strong> {log.liked ? "❤️" : "❌"}</p>
               <p><strong>Timestamp:</strong> {new Date(log.timestamp).toLocaleString()}</p>
+              <p><strong>Score:</strong> {log.score}</p>
             </div>
           </div>
         ))}
       </div>
     </div>
+    
   );
 };
 
